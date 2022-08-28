@@ -1,7 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Somyakant Mohapatra</h1>
 <h3 align="center">A passionate Full stack web developer from India who loves challenges and ready to take on new responsibility. I am problem solver and never sleeps till I make the problem go sleep. I love to work in a team but, that doesn't make me a less an individual contributor. It would be great to work with new technology. It's simple you wanna grow just don't leave learning and embrace new challenges.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somyakant9&label=Profile%20views&color=0e75b6&style=flat" alt="somyakant9" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyakant9" alt="somyakant9" /></a> </p>
 
 - 🔭 I’m currently working on **project using react-redux.**
 
