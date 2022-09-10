@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyakant9&label=Profile%20views&color=0e75b6&style=flat" alt="somyakant9" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyakant9" alt="somyakant9" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somyakant9&theme=onedark" alt="somyakant9"/></a> </p>
+
 
 - 🔭 I’m currently working on **project using react-redux.**
 
