@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somyakant Mohapatra</h1>
+<img src="https://www.andplus.com/hubfs/shutterstock_1193397784.jpg" alt="software"/>
 <h3 align="center">A passionate Full stack web developer from India who loves challenges and ready to take on new responsibility. I am problem solver and never sleeps till I make the problem go sleep. I love to work in a team but, that doesn't make me a less an individual contributor. It would be great to work with new technology. It's simple you wanna grow just don't leave learning and embrace new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyakant9&label=Profile%20views&color=0e75b6&style=flat" alt="somyakant9" /> </p>
@@ -15,7 +16,6 @@
 - 💬 Ask me about **react, html5, css3,redux.**
 
 - 📫 How to reach me **msomya143@gmail.com**
-- Here is my Portfolio **https://somyakant-mohapatra-portfolio.vercel.app/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ArE3omG-pFBczFy_uPuEPeGEXs-YTfIk/view?usp=sharing](https://drive.google.com/file/d/1ArE3omG-pFBczFy_uPuEPeGEXs-YTfIk/view?usp=sharing)
 
