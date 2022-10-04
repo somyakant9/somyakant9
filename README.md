@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **msomya143@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ew7muEUZnWJW4VPi-k79lviiV8CJGqbY/view?usp=sharing]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EstWmBqMIp1BXl6i4g82FHbkDQKbtVjZ/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am a motivational speaker.**
 
