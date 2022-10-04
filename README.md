@@ -13,11 +13,13 @@
 
 - 👯 I’m looking to collaborate on **projects related to front-end using react.**
 
-- 💬 Ask me about **react, html5, css3,redux.**
+- 💬 Ask me about **react, html5, css3,redux, nodejs, express, mongodb**
 
 - 📫 How to reach me **msomya143@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EstWmBqMIp1BXl6i4g82FHbkDQKbtVjZ/view?usp=sharing]
+- 📄 <a href="https://somyakant-mohapatra-portfolio.vercel.app/" >My Porfolio </a>
+
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1EstWmBqMIp1BXl6i4g82FHbkDQKbtVjZ/view?usp=sharing"> My Resume </a>
 
 - ⚡ Fun fact **I think I am a motivational speaker.**
 
